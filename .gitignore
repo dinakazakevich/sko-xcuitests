@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Environment and API Keys
+ENV
+.env
+.env.local
+.env.development
+.env.production
+.env.*
+config.json
+secrets.json
+
+# Personal Data
+*.key
+*.p12
+*.mobileprovision 
