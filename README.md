@@ -1,7 +1,7 @@
 # sko-xcuitests — README
 
 ## Overview
-A minimal example XCTest UI testing framework for an iOS app. Demonstrates a clean, maintainable structure built around the Page Object pattern and XCUITest primitives to keep tests readable, stable and fast.
+This module originates from a full-scale automation suite built for a real production iOS app. Here, I’ve extracted a small, self-contained portion of it to clearly demonstrate my approach to XCUIAutomation and the Page Object Model pattern. The goal isn’t to recreate the entire framework, but to highlight core practices — reusable page abstractions, structured test flows, and maintainable architecture — in a focused, easy-to-review format. 
 
 ## SKO App
 SKO App is an iOS app that is a beauty routine tracker https://www.skoapp.com/
